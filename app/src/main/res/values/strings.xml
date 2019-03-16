@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="minesweeper">Minesweeper</string>
+    <string name="winMessage">You win. Congratulations! Click to play again.</string>
+    <string name="lossMessage">You lose. Click to play again.</string>
+    <string name="restart">Restart</string>
+    <string name="place_flag">Place Flag</string>
+    <string name="try_field">Try Field</string>
+</resources>
